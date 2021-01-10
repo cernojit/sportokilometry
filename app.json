@@ -1,0 +1,12 @@
+{
+  "name": "sportokilometry",
+  "displayName": "sportokilometry",
+  "expo": {
+    "name": "sportokilometry",
+    "slug": "sportokilometry",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
